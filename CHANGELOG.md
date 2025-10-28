@@ -1,8 +1,16 @@
 * Feat - Replaced Kafka lag for latent, alert, and streamingApp to use Kafka consumer group [Asana](https://app.asana.com/1/5557457880942/project/1210730962903478/task/1210416581699531)
 ## Current Release
+### 0.206.0
+**Release Date:** Tue Oct 28 15:11:38 UTC 2025
+## Previous Releases
+* SBE - remove datasource ids for SNMP related widgets from RR dashboard in Grafana (Asana)[https://app.asana.com/1/5557457880942/project/1208396396222905/task/1211316934856267?focus=true]
+### 0.202.0
+**Release Date:** Wed Oct  8 15:32:33 UTC 2025
+### 0.201.0
+**Release Date:** Thu Oct  2 12:37:30 UTC 2025
+* Alert Service - add MQTT metrics [Asana](https://app.asana.com/1/5557457880942/project/1207589908338262/task/1211097394491836?focus=true)
 ### 0.200.0
 **Release Date:** Wed Sep 17 19:25:11 UTC 2025
-## Previous Releases
 * Feat - Add spark_executor_runTime metric to spark resources dashboard [Asana](https://app.asana.com/1/5557457880942/project/1211248085470096/task/1211362440163023?focus=true)
 * Fix - Fix latentlag widget labels on spark ingestion and lag dashboard [Asana](https://app.asana.com/1/5557457880942/project/1211248085470096/task/1209459846414109?focus=true)
 * Fix - fix  recCount metric in object type dashboard [Asana](https://app.asana.com/1/5557457880942/project/1207093596205090/task/1209718397287266?focus=true)
