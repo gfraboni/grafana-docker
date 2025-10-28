@@ -1,4 +1,4 @@
-* Feat - Replaced Kafka lag for latent, alert, and streamingApp to use Kafka consumer group [Asana](https://app.asana.com/1/5557457880942/project/1210730962903478/task/1210416581699531)
+* SBE - Replaced Kafka lag for latent, alert, and streamingApp to use Kafka consumer group [Asana](https://app.asana.com/1/5557457880942/project/1210730962903478/task/1210416581699531)
 ## Current Release
 ### 0.206.0
 **Release Date:** Tue Oct 28 15:11:38 UTC 2025
